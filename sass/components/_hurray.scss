@@ -1,0 +1,37 @@
+.hurray{
+    height: 64%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    &:hover{
+        .low{
+            opacity: 0;
+        }
+        .youth,
+        .yay,
+        .drugs{
+            opacity: 1;
+        }
+        .youth{
+            transform: scale(1);
+        }
+        .yay{
+            transform: translateY(0);
+        }
+        .drink{
+            opacity: 1;
+            transform: translateY(0);
+            animation: hide 2s 6s;
+            &::before{
+                animation: dinkup 2s 6s;
+            }
+            &::after{
+                animation: dinkdown 2s 6s;
+            }
+        }
+        .wine{
+            opacity: 1;
+            animation: clink 2s 6s;
+        }
+    }
+}

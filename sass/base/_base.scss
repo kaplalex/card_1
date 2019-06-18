@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before{
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+
+html{
+    font-size:62.5%; //1rem=10px;
+}
+body{
+    padding: 15rem 0;
+    &:hover{
+        .touch-0{
+            opacity: 1;
+        }
+    }
+}
