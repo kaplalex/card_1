@@ -33,6 +33,9 @@ add or subtract a checkpoint section of the card, a lot of complicated rewriting
 
 I see these all as potential future improvements for this project but basically I already achieved the low-bar vision I had in mind and I rather learn different material now so I'm leaving it as is. There are probably a bunch of other things that can be improved that I didn't mention (like the design for one thing). I may come back to it and change it (so I can be cheap and re-gift it to other family) but I don't have any plans to do so right now. If anyone wants to fork it and improve stuff that would be really cool and I'd love to see what you do with it. 
 
+Note: I learned most of the good parts of the CSS here from Jonas Schmedtmann's Udemy course, which I recommend: https://www.udemy.com/advanced-css-and-sass/
+Any poor craftsmanship should reflect poorly on my work-ethic and not on Jonas's teachership.
+
 Thanks :]
  Alex RK
 {kaplalex}
