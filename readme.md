@@ -3,7 +3,7 @@ I wanted it to work on the first attempt when I presented it to her on my laptop
 
 This means there are a few issues with it that prevent it from working as intended on different devices.
 
-    For one thing, I only got the backface visibility of the text to be hidden when I 
+For one thing, I only got the backface visibility of the text to be hidden when I 
 displayed the page in Safari. The card could be better if it works in different browsers. 
     Furthermore, it's not responsive. I designed it for the random size I happened to have
 my browser window at and the design breaks easily when the viewport changes.
